@@ -15,4 +15,4 @@ Run your localhost server Open your browser and search http://localhost/phpmyadm
 
 Step-3 
 
-Search in your browser http://localhost/codeginitor
+Search in your browser http://localhost/codeginitor. It will run Index.html from your view folder
